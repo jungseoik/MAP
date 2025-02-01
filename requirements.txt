@@ -1,0 +1,17 @@
+oauth2client
+gspread
+gradio
+python-dotenv
+APScheduler
+black
+gradio[oauth]
+gradio_leaderboard==0.0.13
+gradio_client
+huggingface-hub>=0.18.0
+matplotlib
+numpy
+pandas
+python-dateutil
+tqdm
+plotly
+opencv-python
